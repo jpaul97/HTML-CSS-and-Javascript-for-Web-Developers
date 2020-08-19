@@ -28,6 +28,7 @@ h1 {
 	position: relative;
 	padding: 20px 10px;
 	border: 1px solid #000;
+	background-color: #808080;
 }
 
 .box > div {
@@ -39,7 +40,6 @@ h1 {
 	padding: 4px 20px;
 	font-weight: bold;
 	text-align: center;
-	color: #fff;
 }
 
 .box > #title1 {
@@ -48,6 +48,7 @@ h1 {
 
 .box > #title2 {
 	background-color: #deb887;
+	color: #fff;
 }
 
 .box > #title3 {
